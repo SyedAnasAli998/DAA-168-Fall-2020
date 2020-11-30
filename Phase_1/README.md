@@ -8,3 +8,5 @@ StdID | Name
 
 ### Backtracking ###
 Maximum number of possiblities of placing into the chessboard for this problem is N x N and the average and wrost complexity for this problem is O(N!).
+
+https://nqueenbacktracking.000webhostapp.com/
